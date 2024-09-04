@@ -1,2 +1,2 @@
 #!/bin/bash
-install -m 754 /dev/null hello.txt
+chmode 754 hello
