@@ -1,2 +1,2 @@
 #!/bin/bash
-install -m 744 /dev/null hello.txt
+install -m 754 /dev/null hello.txt
