@@ -1,3 +1,2 @@
 #!/bin/bash
-touch hello.txt
 chmod 744 hello.txt
