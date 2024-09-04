@@ -1,3 +1,2 @@
 #!/bin/bash
-touch hello.txt
-chmod 100 hello.txt
+chmod 722 hello.txt
