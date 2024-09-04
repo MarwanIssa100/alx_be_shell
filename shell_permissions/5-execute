@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 744 hello.txt
+touch -m 744 hello.txt
