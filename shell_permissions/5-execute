@@ -1,0 +1,3 @@
+#!/bin/bash
+touch hello.txt
+chmod 100 hello.txt
